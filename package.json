@@ -2,7 +2,7 @@
   "name": "@f/replace-element",
   "description": "Replace a DOM element with another DOM element",
   "repository": "git://github.com/micro-js/replace-element.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
